@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+(Yeah)[https://github-readme-stats-one-bice.vercel.app/api?username=falcoco&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR]
+
+(Ha)[https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=falcoco&langs_count=3&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR]
